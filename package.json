@@ -1,0 +1,17 @@
+{
+  "name": "react-native-espm-tinder-professores",
+  "version": "0.0.0",
+  "description": "vinitomazoni/react-native-espm-tinder-professores @ Nov 24, 2019",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+    "react-native-remote-svg": "^1.2.0"
+  }
+}
